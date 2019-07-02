@@ -8,7 +8,7 @@ const linkRequest = {
 
 const requestHeaders = {
   'Content-Type': 'application/json',
-  'apikey': '191827d91b0c4bdab9e0c2f6873fe9ec',
+  'apikey': 'YOUR_API_KEY',
   // workspace: 'YOUR_WORKSPACE_ID',
 }
 
